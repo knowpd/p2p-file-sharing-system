@@ -1,0 +1,725 @@
+Acknowledgements
+
+First I would like to take this opportunity to thank my Professor Dr. Thomas L.Honeycutt under whose guidance, this Portfolio has been prepared. It was really exciting in preparing this portfolio and in the process, I learnt a lot of important concepts such as the importance of business processes, models for any organization. The course CSC 546 – Management Decisions and Control Systems opened the whole set of new thoughts about economics, business, knowledge dynamics, knowledge creation, knowledge conversion process, knowledge management and what not. Working on the proposal, I learnt a lot by reading several research papers and it added a whole new dimension in my thought process. Developing Ideas that would lead Kazeon Systems towards more innovation was really challenging and thought provoking.. Then I realized the importance of innovation to remain competitive in the market. The course has taught me that the key to innovation is Organizational Knowledge Creation.
+   Dr.Thomas L.Honeycutt has been very encouraging and positive in all my interactions with him. Without his support and motivation, completion of this task would not have been possible. His mails and the material that he gives in the class are a huge source of knowledge and it helped me in my conceptual understanding of knowledge dynamics
+
+
+
+
+SECTION 1: ASSIGNMENT 1
+System Model of Business Firm as it applies to North Carolina State University
+
+Mission of NCSU:
+North Carolina State University is a huge, complex system with many objectives like research, education and service. The mission of North Carolina State University is to serve its students and the people of North Carolina as a doctoral/research-extensive, land-grant university. Through the active integration of teaching, research, extension, and engagement, North Carolina State University creates an innovative learning environment that stresses mastery of fundamentals, intellectual discipline, creativity, problem solving, and responsibility. NC State enhances its historic strengths in the field of agriculture, science, and engineering to provide excellence in a comprehensive range of academic disciplines. 
+
+At first it might seem intimidating as a Master’s student to map NCSU to the System Model of Business Firm, I find it comprehensible and effective to  divide NCSU into various branches. All the departments and services are integral for a student’s academic activities. Whether he/she wishes to add a course, borrow a book, or ride a bus, he needs the assistance of the various NCSU departments. Following is a brief summary of the departments in NSCU & the services they make available to NC State Students.
+
+Objectives of North Carolina State University
+ As per the above mission statement NCSU would provide quality education for undergraduate, graduate, and doctoral students in various disciplines. We can view at NCSU as made up of several major components in order to achieve the above objective. 
+    
+i)	Administrative Department
+ii)	Computing Department 
+iii)	Financial Department 
+iv)	Health Care
+v)	Academic Department
+vi)	Career Centre
+vii)	Library
+viii)	University Housing
+ix)	Sports and Campus Recreation
+x)	University Dining
+xi)	Transportation
+
+These departments in turn interact with several outside components mainly :
+i)Lab Equipment Providers ii)Library Book Suppliers iii)Furniture Providers iv)Software Vendors v)Hardware providers vi)Network Infrastructure Providers vii)Funding Agencies  viii)Chemical Vendors ix)Software firms, Biotechnology Firms x)Corporates
+
+Now I will describe how the students exploit the various departments listed above for their academic growth/success.
+
+Computing Department : NCSU has an amazing amount of computing resources made available to students. They are maintained by the Information Technology Department (ITD). Its highlights are:
+1. Unity labs, have powerful systems, it has Linux, Mac and Windows Machines
+2. EOS labs, which are chiefly meant for engineering students, have even more powerful systems and also have Linux and Sun Microsystems enabling students to learn different environments
+3. Novell Netware: NCSU has partnered with Novell to make software available to all its students through unity labs and EOS labs. It is really useful to have high priced software at our disposal. We have Dreamweaver, flash, fireworks, matlab, maple etc. 
+4. Free, uninhibited, high speed internet in the labs and at many places in the campus through wireless internet. 
+5. Virtual Computing Lab: Another very useful facility for students to access high valued software through remote networking.
+6. Students also have access to printers for a small price.
+These computing resources are very useful for a student; it makes their education easier and also makes them better computer literates.
+
+Financial Department: The financial matters of a student are maintained by a separate department called financial services. Its tasks are
+1. Calculating the tuition of a student based on his credit hours
+2. Collecting and maintaining the tuition
+3. Maintaining the payroll of student on campus employees
+5. Financial aids, assistantships, scholarships maintenance.
+6. Other financial matters like the housing, parking permits are also under this departments control.
+
+Academic Department: A student’s academic records are maintained by the academic affairs department. Its tasks involve
+1. Maintenance of grade reports
+2. Generation of official transcripts and academic summary.
+3. Calculation of degree requirements and granting a degree certificate.
+4. Maintenance of academic probation details etc.
+
+Library: Though in a traditional sense a library is place for books and NCSU have a great collection of books, its online facilities are simply amazing. Libraries have also made heavy use of IT systems.
+ Its features are
+1. Automatic lending and returning books which is accomplished using the ID card.
+2. NCSU libraries have almost invested an equal amount of money in online resources as its physical resources. All most all the available famous journals are available online including the IEEE, ACM, and Portal.
+3. They also have a huge collection of online books which are only available for NCSU students through the unity login. This is a highly used feature because; the mundane tasks of borrowing, returning, holding are all eliminated. 
+4. NCSU libraries also have a some other facilities like digital media labs, CD-ROM and DVD-ROM lending etc, which might be useful for students in specialties like photography etc.
+
+Faculty: NCSU has got a great faculty. All the professors all highly qualified, all of them are doctorates. Most of these faculty members have lot of industrial work experience as well as theoretical knowledge. These tacit knowledge will be imparted to students through their excellent Masters, Undergraduate and Doctoral Programs.
+
+Career Centre: NCSU helps the students achieve jobs through its Career Center. Recently, it has partnered with Experience to further increase the options available. Its highlights are
+1. Students can search for a wide variety of jobs
+2. Students can post their resumes and cover letters, which are searchable by the employers.
+3. Offers decent searching facilities for both full time jobs and internships, searching can be narrowed by major, degree, visa status etc.
+4. Students can also search for employers and can apply directly.
+5. Students who applied through the career center appear to have a priority over the others.
+
+Administration Department: NCSU has got Registration and Records which will take care of maintaining student database records. NCSU has got Graduate Office who will handle bringing the new students into the university through various selection processes. Office of International Students will handle all the issues related to foreign students coming to study here.
+
+Health Care: NCSU has got excellent health care facility. They have lot of health care programs for health promotion among students.
+
+Dining and Hostel: NCSU has got excellent University housing and dining facilities at low cost.
+
+University Housing: manages the large number of residence halls on the NC State Campus & makes sure it is a hospitable place for the NC State Students to live. 
+
+Sports and Gym: NCState Gym is considered as one of the best gyms among all the universities of the United States, providing facilities for all sorts of indoor and outdoor games. Excellent facilities for maintaining fitness and promoting good health.
+
+Transportation: NCSU provides 24/5 bus service to all students free of charge. These buses run very frequently and cover most of the area in & around NCSU. Transportation department appears to have embraced the IT through its use of the GPS lead through the TVS transloc. This is a familiar map applet which shows different bus positions and their routes as multicolored lines.
+
+Taking a look at the above components of the organization, we can see that there is a constant interaction among outside domains and inside domains of the NCSU. Also there is a constant interaction among students and inside domains of the NCSU. Internal domains of NCSU has given more importance to the feedback given by the students as well as feedback given by its outside vendors. This feedback from these outside components and students are the potential source of knowledge discovery and knowledge creation for NCSU. Apart from this outside knowledge sources it also has got lot of internal knowledge sources such as enrollment trend (enrollment database), graduation trends (graduation database), students registration for the courses (course registration database) etc. So NCSU will be exploiting all these knowledge sources for continuous innovation to maintain its competitive advantage among other universities to remain as a leader in producing quality students from NCState. As a result of this organizational model we can view “NCSU -as a knowledge creating organization”.
+
+We have already seen that NCSU as a “knowledge creating organization” when we view it from the perspective of organizational knowledge creation firm. Apart from this NCSU is also a “Research knowledge creating organization”. From the objective we can see that the main focus of NCSU is on producing quality research work. In fact NCSU with its internal domains, which includes faculty members will constantly interact with students to transfer their knowledge to students to equip them with good skills and conceptual knowledge. They will also tap students potential to come out with innovate research proposals and will submit these proposals to NSF, US Government and other business organization, which are sources of funding to bring funding to the university to implement their proposal to materialize the idea. This would result into lot of publications of papers and registration of patents. This would definitely add to the intellectual capital of the NCSU as a whole.
+
+
+SECTION 2 : Assignment 2
+Pattern Writing, Recognizing and Forming Patterns 
+Part A:- Book Review-“Knowledge Enabled Organon”
+
+The book Knowledge Enabled Organon(KEO)  is unique in its presentations of various knowledge management concepts. The entire book is organized as collection of patterns. These patterns describe how to capture and record knowledge. This captured knowledge is called knowledge nugget. The book starts with the pattern Knowledge titled Magic Illusion. This describes the illusion created due to the lack of knowledge. This is captured by Escher’s painting. One such sample is given in fig3.1: This is followed by the pattern on Knowledge Management Link and KM magic, which defines the area of knowledge management and the idea of creating an illusion to unknowledgeable. Another section describes pattern, pattern language and PDCA cycle. Another section on patterns on Knowledge Insight Model: Framer, Sharer, Maker, Finder and KIM Magic. Finally a pattern is provided on Knowledge Enabling,
+which describes the consulting and training services provided by KEO. The appendices
+contain patterns of Information Technology Management Model, KM Advance Organizer
+and KEO book.
+
+ 
+Quad Chart review
+
+A quad chart is one-page, standardized document used to describe, in a pictorial and
+narrative format, the attributes of a particular technology or offering. The four quadrants
+contain:
+• A photograph or artist’s concept
+• Operational Capability
+• Proposed technical Approach
+• Costs, Scheduling, Deliverables and Corporate Information
+
+Gartner’s Magic Quadrant
+
+The Magic Quadrant analyzes the vendors that go beyond the call of survival, they
+are an answer to the call of market forces, be it in technology, innovation, including:
+search, content classification, categorization, and clustering.
+
+Leader: The vendors have a strong urge for innovation, and they have also devised methods to
+determine methods which are relevant to users, and that which provide the developers
+with the independence and the technology to achieve their fullest potential. Apart from
+the awareness of innovation and technology, the vendors are also aware financially. They
+have the appropriate knowledge and investment capabilities that can help them weather
+hard times. They have the means to expand, through acquisitions, and in this manner,
+they build their organizational and knowledge capabilities.
+
+Challengers: The challengers possess the sufficient resources to effectively penetrate the technology market and make an impact. However they do not have the resources and the vision to address all information access challenges. They have the potential of emerging leader in
+the next 24 months.
+
+Visionaries: These vendors have demonstrated insightful and imaginative approaches to the information technology domain. However they lack the resources to meet all the challenges
+that accompany their vision.
+
+ 
+
+Niche Players: They posses the attributes that are necessary to attach and fulfill certain criteria and projects, however they lack the ability to expand and satisfy all the projects and address
+all their financial concerns.
+
+Knowledge Insight Model review: 
+
+Knowledge Insight Model is best summarized in following steps which has been proved
+to be very effective across various studies
+
+1. The Design Process needs to be clearly defined and taught to the intended work
+force
+2. There should be clearly defined check list of components and activities provided.
+The check list should include all the details that will be iterated in the process
+3. The knowledge, experience, and the creative input of the organization should be
+channeled and focused onto the goal of the organization
+4. There should be means provided and steps taken to support the ongoing communication
+and record keeping
+5. There should be a structure provided to organize the tasks, activities, skills, talents,
+knowledge, and ideas. They should be such that the ideas are actually heard and
+weighted against the organizational goals
+6. There should be efficient means and discussion forums, for all the involved parties
+in the organization. This will help them to pool ideas for constructive idea sharing
+and problem solving, for innovation is the key to market survival
+7. There should be stimulation of creativity, and steps should be taken to keep the
+team members motivated through team spirit, work and a relaxed environment                            
+
+ 
+
+Review of Knowledge Dynamics Concepts:
+
+Explicit Knowledge:  This refers to the knowledge of rationality(mind). It refers to the sequential knowledge, mostly digital knowledge. This is the knowledge in the company available to everyone in it or the knowledge which can be expressed with no or a minimum effort is called the explicit knowledge.
+
+Implicit Knowledge: This deals with the knowledge of experience(body). It refers
+to the simultaneous knowledge in the present scenario. This is mostly the knowledge
+used in practice.This is the knowledge processed by individuals which cannot be easily
+expressed to others in implicit knowledge.
+
+ Four modes of Knowledge Conversion:
+The transfer of knowledge from the tacit to the four modes of knowledge conversion are
+as follows:
+
+• From Tacit to Tacit Knowledge which is Socialization, is a process of sharing
+experiences and thereby creating tacit knowledge such as shared mental models
+and technical skills. This transfer need not require language or any medium. A
+typical example would be an apprentice learning from his master doing the work.
+This is not a transfer of information but of experience.
+
+• From Tacit Knowledge to Explicit knowledge , also called Externalization. Metaphors,
+Analogies, Concepts, Models are used for this purpose. This is the most challenging
+of the four. Figurative knowledge and an imagination on the part of the
+transformer greatly facilitates the process.
+
+• From Explicit Knowledge to Explicit Knowledge, called Combination. This is a
+process where knowledge from various domains and experts is transferred to all the participants. Documents, meetings, emails are the medium for this. In addition to gaining knowledge participants reconfigure their existing knowledge to explicit knowledge.
+
+ 
+
+• From Explicit Knowledge to Tacit Knowledge, called Internalization. Internalization
+is the way in which explicit knowledge is turned into persons implicit knowledge. A simple example is a student performing a lab experiment to know the finer details of the theory presented in a class. Documents, visible artifacts, diagrams are useful in this process. It is essentially re-experiencing others knowledge.
+
+
+
+
+
+
+
+
+
+Conditions for Enabling the creation of organizational knowledge:
+
+• Intention: First of all a company should have a vision of what kind of knowledge should be developed and how that knowledge should be operationalized. Development of commitment for knowledge creation among employers.
+
+• Autonomy: All the individuals in the company should be provided with a feeling that they are allowed to act without supervision to a certain extent.
+
+• Fluctuation and Creative Chaos: Individuals tend to be their best only under problems. Often fluctuations and chaos should artificially created to motivate the employees.
+
+• Redundancy: Possibility of obtaining information from various sources speeds up the knowledge creation process through the sharing of tacit knowledge.
+
+• Requisite Variety: The existence of a dynamic and varied environment fosters the ability to solve a wide variety of problems by giving knowledge and experience from various sources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finding a pattern & the Power of the 2 x 2
+
+Patterns of Knowledge Insight Model : Framer, Maker, Finder, Sharer and magic of KIM are discussed in detail in “Knowledge Enabling Organon” developed by Dr.ThomasL.Honeycutt. In the pages to come I am going to and also try to find a pattern and also use the 2X2 solution for knowledge sharing that could be useful to solve some problems by the companies out there.
+
+Inspirational Quotes
+I have no special talent. I am only passionately curious.
+
+-	Albert Einstein
+Information is not knowledge. 
+
+-	Albert Einstein
+We cannot solve our problems with the same thinking we used when we created them.
+
+-	Albert Einstein
+
+Imagination is more important than knowledge.
+
+-	Albert Einstein
+The important thing is not to stop questioning. Curiosity has its own reason for existing. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery every day. Never lose a holy curiosity. 
+-	Albert Einstein
+
+
+
+
+Pattern Name :
+2X2 solution for knowledge sharing
+Aliases
+Knowledge Discovery, Knowledge Capture, Knowledge Delivery, Analysis of Knowledge
+Context
+Any Company’s success depends upon the decisions it takes. The success of the company depends directly on the efficiency of its employees. The efficiency of an employee is based on his/her ability to makes good decisions, implement them well - and then learn from experience in order to do better next time. To make a good decision, one needs not only information about the specific problem, but also an understanding of the domain. In other words, one needs a set of principles, models, templates or other abstractions.  The employees must be kept motivated so that creativity is stimulated among the team members, and innovative models and abstractions are build in the organization. It is very important for the management of the organization to use the human capital effectively. The organization should have a clear mission and goals and encourage the team members to use their creativity in achieving the goals and taking correct decisions so that they achieve the goals.  Knowledge created at a workplace  is a set of re-usable abstractions that assist understanding and provide meaning to decision-making. Information is about specific instances and is the raw material of particular decisions.  
+
+Problem
+As we have seen above that for a successful organization employees should be encouraged to use creativity to make new abstractions and templates which help take better decisions. The major problem faced by most of the companies is to retain an employee through the knowledge dynamics cycle from the creation of knowledge up to the utilization of the knowledge. If employees leave the organization before the completion of the knowledge dynamics cycle the competitors(organization the employee joins)  use the created knowledge, which is a big blow to an organization. Management of the Organization fails to be able to solve this problem and in turn loose their edge in knowledge to other organizations. There are a lot of opportunities available everywhere for the employees and hence it is of utmost importance for the company is to keep workers happy so that they are retained. Also training the workforce to develop  innovative models and abstractions for decision making is also an important issue.
+So the under lying theme is that employees have to think creatively, create knowledge at work to solve problems. An organization needs to invest in their employees/train them so that, they can they can make new abstractions and templates to solve problems. At the same time, they have to make sure that the employees they invest into are retained at the company throughout the knowledge development cycle so that, they don’t loose edge in the market, or the employees leaving the company can go spill the beans to the competitor. 
+
+Forces
+Now I will discuss the forces that help in creation of knowledge that enhances efficient decision making and the forces that help retain the knowledge creation entities (employees) in the company.
+The forces that help in creation of knowledge that enhances efficient decision making are as follows:-
+Knowledge Dynamics for Efficient Decision Making:
+Knowledge is re-usable. Knowledge is different from information. Both are needed for effective decision making. Knowledge of a domain helps identify which information is relevant. Strategic Knowledge Management addresses the major weaknesses in the strategic decision making process. 
+
+Knowledge Flow Dynamics from Creation to Utilization:
+In traditional organizations, knowledge tends to flow along organizational lines, from the top down. But that pattern seldom results in making knowledge available in a timely fashion and where it’s needed the most. In organizations with managed knowledge, information can flow across organizational lines, reaching the people who can use it in ways that best promote the organization’s goals and that enhance service to the customer at the same time. 
+How this happens can be understood by examining the four basic elements of the knowledge management cycle: represent, understand, validate and reuse.
+
+ Under “represent,” especially as it operates in a transportation organization, knowledge is gained through a variety of means, including publications, conferences and meetings, project experiences, research, and industry expertise. In the next step in the cycle, “validate,” the knowledge is filtered and catalogued, and links to the outside are created. Then the information is shared for wide availability, making use of high-tech computer tools such as the Internet and other techniques such as conferences, journal articles, and the natural communication channels created in a collaborative work environment. 
+
+To help carry out the “understand” and “validate” functions in a specific community of people having a common interest, many experts recommend a knowledge manager. This person has the task of soliciting good practices, indexing and cataloguing new information as it comes in, and serving as an information broker by assisting people to obtain the information they need. The knowledge manager can also serve as an advocate for knowledge-sharing practices within and beyond his or her specific community of practice.
+
+Knowledge Dynamics Cycle:
+Explicit 						Tacit
+
+Represent (Current Knowledge)	
+Understand (Action)
+
+Validate (New Knowledge)	
+Re-Use (Innovation)
+
+
+The final stage of the knowledge management cycle, “reuse,” involves both informal contacts and access to reports, good practices, success stories, and other forms of communication, including exhibits, demonstrations, and training sessions. Much of this knowledge can be made available to a wide audience through the Internet. This is the step in which knowledge is applied and reapplied to solve real-world issues, such as building better bridges, operating roadways more efficiently, and improving highway safety. Of course, these results are then captured as part of the lessons learned for use as the knowledge cycle begins again.
+
+The forces that help retain the knowledge creation entities (employees) in the company.
+Executive Management :
+The Executive Management Team should look at identifying where the employees lack in their skill set and ensure that they get the required training. Project Managers should interact with the employees to understand what they require and escalate the request to the higher levels of management and strive for getting approval. Also the overall work culture at the company should be good, an employees should be paid as per industry standard to retain them.
+
+Knowledge Sharing across the organization:
+Different Business Units must interact with each other and share the knowledge between them. The employees suggestions should be seriously considered by different business unit heads and they must devise methods to use the creativity of the employees.
+
+Solution
+The following PDCA cycles are to be followed to construct a pattern to establish a process that would help an organization to invest in their employees/train them so that, they can they can make new abstractions and templates to solve problems, at the same time, they have to make sure that the employees they invest into are retained at the company throughout the knowledge development cycle so that, they don’t loose edge in the market, or the employees leaving the company can go spill the beans to the competitor. 
+
+ 
+In this Assignment, I have tried to bring about the roles and responsibilities of the four different KIM Actors who will try to establish the solution I describe above:
+1)	Framer
+2)	Sharer
+3)	Maker
+4)	Finder
+
+
+I have explained in detail what role each actor has.
+
+ 
+
+Role of Framer in KIM
+Framer is involved more with the Plan phase of the PDCA Cycle. Framer Function can be used to draw short or long term plans and the Management focuses exclusively on this. The Knowledge Management Plane is basically developed having the objectives of the organization in the mind and also the process that have to be used to carry them out. The internal knowledge is examined with this information to see whether there is a match and then goals are set. The maker ensures the creation of this non-existing necessary knowledge, Finder is the one who deploys both the existing and the new knowledge and the sharer controls the flow of knowledge. Framer allows it’s users to get a clear and big picture to correctly design the KIM and also the other 3 functions.
+ 
+Pattern For a Framer:
+1)	Learning across the organization and bringing about the changes in the Management.
+2)	Spending on Infrastructure.
+3)	Forging partnerships among the different business units of the company.
+4)	Measures to assess the impact. 
+
+
+Role of Framer in my Solution:- 
+In an organization, the framer would be a person from the higher levels of management say the CKO or CIO or maybe a top level HR guy.  This person would be responsible to envision how and put forth a knowledge creating environment which would enable employees to develop new templates to solve problems at the same making sure that all this intellectual property is retained at the company and the competitors in the market place do not take advantage of this resource. I think the framer in this case would have to start by putting together a frame first that represents the edges and the four corners of the final picture. He is a bird and has to think from a high level of abstraction and draw out the short or long term goals associated with the above problem. The Knowledge development cycle is basically developed having the objectives of the organization in the mind and also the process that have to be used to carry them out. This frame set up gives the problem a better sense of the direction of how parts of the solution can fit together in a big picture and also assigns the work to the frogs in the organization to carry out certain detail oriented tasks.
+Role of a Sharer in KIM
+The Sharer model focuses on the Check phase of the PDCA cycle, and is distinguishes itself from the three other KIM related models (Framer, Maker, Finder) because it actually starts off at the Check point and is the only of the four to go in a clockwise direction.
+This Sharer function starts off by tracking, verifying and monitoring (C) existing knowledge. Existing knowledge is processed and packaged (A) according to specific needs as
+planed (P) in the Framer function. Based on this plan, missing knowledge will be acquired. externally (D) if possible. If the required knowledge does not exist, it will be created based
+on existing knowledge internally (C) and added to the existing .knowledge pool.The Sharer function should ensure that the Maker and Finder functions work in tandem within the KM superstructure defined by the Framer.
+
+
+
+Role of Sharer in my Solution:- 
+Throughout the process of putting creating new knowledge in an organization, the finder and maker need constant interaction and they have to work in synchronization. Also the maker and the finder have to be in very communication with the framer so that his ideas are known to them. The framer is would basically a guy from the middle management or maybe someone who is a little higher up  constantly evaluate the knowledge nuggets the knowledge clusters they have are being developed at the maker and finder side and put together to figure out how they can fit together. They always keep an eye on the framer to possibly link the nuggets or available clusters to the framers goals so that everything fits in the big picture. The sharer would also be responsible to make sure that the employees in the organization working as maker and finder are satisfied, and help them incase they have any problems. Also in-case he cant solve these problems then make sure that the framer knows about this and radical changes can be made to the knowledge creating/decision making environment which would enable employee retention in the company.
+Pattern
+1)	Distinctive Competencies
+2)	Mission Critical Competencies
+ 
+Role of a Maker in KIM
+The Maker creates new products, concepts, processes, etc. The maker ensures the creation of this non-existing necessary knowledge. From this we can see that a maker should have a broad vision of a problem, he should be able to be able to amalgamate various processes to create a unified solution. His thinking will hence always be at a higher level of abstraction of the problem/idea, a Maker is a BIRD.
+Role of Maker in my Solution:- 
+Once the frame (KM plan) for the solution has been developed by the framer, the maker has to analyze the remaining pieces (knowledge nuggets) and try to find innovative solutions to implement the ideas of the framer. Pieces that fit together will be assembled into clusters (knowledge clusters) forming little groups that gradually represent different pieces of the picture to come together. The maker may also have to find innovative methods that would later make the life of the finder easier. 
+ 
+Pattern: 1) Improving the process capability
+    2 Reducing variance
+Role of a Finder in KIM
+The Finder allows its users to find/match external needs with internal Maker creations and Framer plans. The Finder should work in tandem with the Maker, thanks to the Sharer function within the KM superstructure defined by the Framer. Finder can be associated with continuous improvement process. They are used to establish and update relevant continuous improvements. Finder is the one who deploys both the existing and the new knowledge and the sharer controls the flow of knowledge. 
+Role of Finder in my Solution:- 
+Once the Maker has made his plans to solve the problem, it is up to the finder to implement the ideas. The Finder is the one who deploys both the existing and the new knowledge. He is the one who gets into the nitty gritty details of implementation and makes the ideas of the maker work. He has to learn the actual working of the various processes, try to make them work together and find a work around for every bottle neck. The Finder deals with the lower levels of abstraction of the problem/idea. He is the problem solver, the Finder is a FROG.
+
+Patterns :
+1)	Milestone Analysis
+2)	Mission Critical Competencies investments.
+3)	Distinctive Competencies investments.
+ 
+Resulting Context
+The Knowledge Creation cycle comprises of the creation and use of knowledge. We have already mentioned how increased understanding of current best practice in strategic thinking can lead to innovative breakthroughs. These break throughs helps companies successful as they enable their employees to take better decisions.  But this knowledge creation spans over a period of time and the employees participating in the same need to be retained, if the cycle has to complete successfully without market competitors getting to know about it. Hence it is of great importance for the organization to understand the expectations, vulnerabilities of the employees and build a knowledgebase about the same. The Companies then can model their business model based on the information extracted from this knowledgebase. It also helps in identifying the skill gaps. The success of each of the steps that we discussed is ensured by the PDCA Cycle.
+
+Rationale
+Current knowledge is explicitly represented. It is processed by the human grey matter  leading to understanding, decisions and action. This is sometimes accompanied by new ideas or hypotheses. If supported, the new ideas lead to innovative actions, and also to new knowledge that is added to the explicit representation of current knowledge. A clear and well define roadmap is a key strategy for achieving success. The knowledge sharing and constructed patterns can be used by the Management to get an overview of the human capital to achieve the goals.
+
+Related Patterns
+Knowledge Insight Model
+Patterns (KEO Book)
+KIM Cube
+PDCA Cycle
+The Abstract Mandala
+2x2 Matrix
+Known Uses: 
+
+Accenture 
+ZOO 
+UPS 
+
+References: 
+
+KEO book.
+
+
+
+
+ARCHETYPE
+ 
+Albert Einstein (1875-1955)
+"The most incomprehensible thing about the world is that it is at all comprehensible." 
+
+"Intellectuals solve problems; geniuses prevent them." 
+
+“We cannot solve our problems with the same thinking we used when we created them.” 
+
+Short Summary about Albert Einstein’s Life and his Achievements:-
+
+Born:	14 March 1879
+Ulm, Kingdom of Württemberg,  German Empire
+Died: 	18 April 1955 (aged 76)
+Princeton, New Jersey, USA
+Residence:	Germany, Italy, Switzerland, USA 
+Citizenship:	Württemberg/Germany (1879–96)
+Stateless (1896–1901)
+Switzerland (1901–55)
+Austria (1911–12)
+Germany (1914–33)
+United States (1940–55)
+Ethnicity:	Jewish
+Field of Work:	Physics
+Institutions:	Swiss Patent Office (Bern)
+University of Zurich
+Charles University in Prague
+ETH Zurich
+Prussian Academy of Sciences
+Kaiser Wilhelm Institute
+University of Leiden
+Institute for Advanced Study 
+Alma mater:	ETH Zurich
+University of Zurich 
+Doctoral Advisor:	Alfred Kleiner
+Other Academic Advisors:	Heinrich Friedrich Weber
+Notable Students:
+	Ernst G. Straus
+Nathan Rosen
+Leo Szilard
+Discoveries:	General relativity
+Special relativity
+Photoelectric effect
+Brownian motion
+Mass-energy equivalence
+Einstein field equations
+Unified Field Theory
+Bose–Einstein statistics
+Notable Awards:	Nobel Prize in Physics (1921)
+Copley Medal (1925)
+Max Planck Medal (1929)
+Time Person of the Century
+
+Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor's degree. 
+
+After World War II, Einstein was a leading figure in the World Government Movement, he was offered the Presidency of the State of Israel, which he declined, and he collaborated with Dr. Chaim Weizmann in establishing the Hebrew University of Jerusalem. 
+
+Einstein always appeared to have a clear view of the problems of physics and the determination to solve them. He had a strategy of his own and was able to visualize the main stages on the way to his goal. He regarded his major achievements as mere stepping-stones for the next advance.
+
+ At the start of his scientific work, Einstein realized the inadequacies of Newtonian mechanics and his special theory of relativity stemmed from an attempt to reconcile the laws of mechanics with the laws of the electromagnetic field. He dealt with classical problems of statistical mechanics and problems in which they were merged with quantum theory: this led to an explanation of the Brownian movement of molecules. He investigated the thermal properties of light with a low radiation density and his observations laid the foundation of the photon theory of light. 
+
+In his early days in Berlin, Einstein postulated that the correct interpretation of the special theory of relativity must also furnish a theory of gravitation and in 1916 he published his paper on the general theory of relativity. During this time he also contributed to the problems of the theory of radiation and statistical mechanics. 
+
+In the 1920's, Einstein embarked on the construction of unified field theories, although he continued to work on the probabilistic interpretation of quantum theory, and he persevered with this work in America. He contributed to statistical mechanics by his development of the quantum theory of a monatomic gas and he has also accomplished valuable work in connection with atomic transition probabilities and relativistic cosmology. 
+
+After his retirement he continued to work towards the unification of the basic concepts of physics, taking the opposite approach, geometrisation, to the majority of physicists. 
+
+Einstein's researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938). Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.
+
+ Albert Einstein received honorary doctorate degrees in science, medicine and philosophy from many European and American universities. During the 1920's he lectured in Europe, America and the Far East and he was awarded Fellowships or Memberships of all the leading scientific academies throughout the world. He gained numerous awards in recognition of his work, including the Copley Medal of the Royal Society of London in 1925, and the Franklin Medal of the Franklin Institute in 1935. 
+
+Einstein's gifts inevitably resulted in his dwelling much in intellectual solitude and, for relaxation; music played an important part in his life. He married Mileva Maric in 1903 and they had a daughter and two sons; their marriage was dissolved in 1919 and in the same year he married his cousin, Elsa Lowenthal, who died in 1936. He died on April 18, 1955 at Princeton, New Jersey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBJECTIVE
+
+Kazeon revolutionizes the way companies perform Information Management by using the Information Server software to intelligently discover, search & index, classify and perform workflow action on all electronically stored information. Kazeon's vision is to have Information Management be the ubiquitous means of discovering, analyzing and managing information across an enterprise. Information Management needs to be as fundamental and enterprise-wide as databases or network switches in the IT infrastructure of corporations. Kazeon offers a wide range of applications within an enterprise using a single, underlying Information Management technology. Key applications that face Information Management challenges are proactive eDiscovery, reactive eDiscovery, information security and privacy, corporate investigations, regulatory compliance and data management. It offers business solutions that comprise data privacy and security, enterprise content management, as well as information technology solutions that include backup search and recovery, file reporting, and migration and archival. 
+
+E-Discovery is Kazeon System’s main product & it has a number of versions of the product which suit the needs of the various clients. E-Discovery is the industry's first enterprise-class, in-house product to integrate discovery, classification, search and reporting of data for a complete solution. E-Discovery also has built in  Business Intelligence(BI) technology which provides historical, current, and predictive views of business based on the structured data & helps the management take better business decisions.  Though E-Discovery is aimed at helping organizations re-structure and  utilize their data more effectively, not all E-Discovery implementations succeed. Reports show that about 15% of their projects involving E-Discovery aren’t successful.  
+The main objective of the prospectus is to find and  analyze the causes of failure of the E-Discovery Product. Also follow that with  a knowledge management model for Enterprise Knowledge Management Technologies such as E-Discovery which help improve the shortcomings of the current model and propose corrective measures to overcome the errors in the current model. For this final model, I have analyzed  the various causes of failure of Enterprise Knowledge Management Technologies in the industry and come up a generic model, which will help Kazeon’s E-Discovery improve. 
+SCOPE
+
+The scope of the proposed model is not limited to Kazeon System’s E-Discovery and its various version. It  has been developed after studying the different road blocks that Enterprise Knowledge Management Technologies currently used in the industry face, the reason for these of the road blocks and the way around them.  This is a generic solution, though it caters more towards Kazeon’s E-Discovery, its essence can be used to improve any other that Enterprise Knowledge Management Technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+
+It is clear that the most important property of every organization is organizational knowledge and correct management of it will cause core competencies for the organization and also victory against the competitors. Of course knowledge and knowledge management both are important for an organization, but are all knowledge management efforts in the organizations successful? They are not, there are times when knowledge management efforts fail in an organization. In the pages to come I will try to discover and analyze what are the main failure factors of this phenomenon. This paper attempts to answer this question by analyzing examples  of E-Discovery Failures and tries to find the causes for its failure. It tries to find why a Knowledge Management system (KMS) like E-Discovery fails and how risk of such failure may be minimized. My proposal is to make sure that E-Discovery is evolved to ensure that adaptation and innovation of business performance outcomes. Also that these outcomes occur in alignment with changing dynamics of the business environment. I also have to add that the design of Kazeon’s E-Discovery should be done conceiving multiple future trajectories of the information technology and human inputs embedded in the KMS can diminish the risk of rapid obsolescence of such systems. Envisioning business models not only in terms of knowledge harvesting processes for seeking optimization and efficiencies, but in combination with ongoing knowledge creation processes would ensure that organizations not only succeed in doing the thing right in the short term but also in doing the right thing in the long term. Embedding both these aspects in enterprise business models as simultaneous and parallel sets of knowledge processes instead of treating them in isolation would facilitate ongoing innovation of business value propositions and customer value propositions.
+
+
+
+
+
+
+
+PROBLEM STATEMENT
+Knowledge management is an increasingly important part of organizational strategy in companies  and its potential benefits are well known. This has led to senior managers in the US public and private sectors striving to implement knowledge management strategies in their respective organizations, Kazeon’s E-Discovery is one of them. It can be seen that many of these initiatives to amalgamate E-Discovery into the present Knowledge Management Structure has resulted in failure, and these failures have cost companies a lot of money. I  will argue that this is because management has thought that the answer to the problems lay with simply the installation of an information technology solution such as E-Discovery. There are other inherent problems which organizations have which Kazeon should help tackle before they go ahead with the installing of a KMS such as E-Discovery at any organization. The implementation of a Customer Relationship Management (CRM) system at Kazeon Systems may also help them to better understand the problems that hinder the success of E-Discovery in an organization.  During the installation process of E-Discovery at any organization it can be seen that , it became apparent that the development was not going as well as expected.  Research points that the organizational learning required to effect the behavior change was not occurring, as a result of too little attention being given to existing social frameworks and architecture within the organization and too much to the technological changes required.
+My overall aim is to discuss the role of social architecture in the successful sharing of knowledge within organizations. The impact of culture upon effective knowledge sharing is being increasingly accepted and this paper will explore further the role of assumptions, trust, reward systems, leadership, physical building and structural impacts and learning systems. The argument will be made that the absence of the  latter elements of the knowledge sharing process are causing the failure of E-Discovery. Upon the inclusion of these elements in an organization, there will be a greater chance that a  Knowledge Management System like E-Discovery would be able  to succeed. If  E-Discovery will continue to fail, the organization  will continue to make losses because of the E-Discovery Implementation. Also if the customers aren’t happy with Kazeon’s Product, their image in the market will be spoilt, hence the implementation of this devised solution is critical.
+EINSTEIN’S ROLE IN HELPING E-DISCOVERY ACHIEVE SUCCESS
+Albert Einstein is the archetype of this research project because his innovation, discoveries and inventions added a new dimension to perception of the physicists and the world regarding some very important areas of science and technology. It created an immensely informational knowledge base which was later used by physicists, scientists and engineers to develop on them and drive technological innovation. He not only contributed to the field of science and technology, but he shared his expertise and knowledge. He served as a Professor in a number of Universities and shared his knowledge with his students and also inspired them to pursue research which would contribute to the humanity. 
+ Albert Einstein still remains a source of inspiration for scientists, engineers and common people all over the world and Einstein’s intelligence has made the name Einstein synonymous with the word Genius. He had an uncanny ability to identify sources of knowledge even from small things and his viewpoint regarding knowledge source can be best expressed by his famous quote – “Whether you can observe a thing or not depends on the theory which you use. It is the theory which decides what can be observed.”  He believed that only source of knowledge was experience. Since Einstein stood for Innovation and was known for trying out new things, he will be an ideal archetype for this research report which intends to suggest creative solutions to help Kazeon Systems emerge and remain the leader in it’s area of structuring un-structured data, but still their E-Discovery product fails to succeed at times. Albert Einstein with his innovative ways of looking at problems, could analyze why E-Discovery doesn’t fit in the environment of certain companies and help the product evolve.
+The KIM Model would be an apt solution to the above described problem and Albert Einstein suits all the four roles namely – Framer, Maker, Finder, Sharer perfectly. Albert Einstein had all the traits required in a Framer as it is the responsibility of the framer in understanding the problem at hand and designing the framework within which the actual solution can be developed. Albert Einstein was adept at identifying and understanding problems and his approach was to basically develop a broad solution for the problem initially and then work on it. 
+He also had the traits of a Maker since he developed solutions to so many of the problems. His solutions has helped science and technology to advance by leaps and bounds. He himself worked on all his findings and it was his own sheer perseverance that led to so many discoveries and inventions that took the scientific world by storm.
+ He easily fits into the role of a Finder as well because he collected a lot of information before attaching the problem at hand thereby supplementing the Maker role within himself. 
+He can be termed a Sharer as well since his work served as a platform on which future scientists and engineers could build upon. His findings and work form a comprehensive knowledge base containing information about the various domain areas and his approach to the problems serve as ideals for his followers. Thus he is a perfect example of someone who performed all the 4 functions comprising the Knowledge Insight Model – Framer, Maker, Finder, Sharer.
+This means that Albert Einstein could join Kazeon Systems in any of these roles and help them evolve E-Discovery into a better product. In the pages to follow, I would try to find solutions keeping Einstein in mind as my inspiration. I would try to imagine how he would tackle problems if he were in a position of responsibility at Kazeon Systems be it the Maker, Framer, Finder or Sharer and what solutions he might propose and try to incorporate them in my final solution.  
+
+
+
+
+
+
+
+
+
+PROPOSED RESEARCH
+As described in the above, Albert Einstein was a visionary who contributed a lot to the field of Science and Technology through his Knowledge Creation. I would like to have someone who follows the same approach that Albert Einstein followed in his pursuit of Knowledge Creation and one who believes in the same school of thought as that of Albert Einstein lead the Decision making Team at Kazeon Systems. Albert Einstein had a distinct approach towards solving problems. As described in the Archetype Section, Einstein’s approach towards knowledge creation involved close examination of physical reality, look at underlying aspects and try to draw inferences from it thereby creating a knowledge source. Once a knowledge source base is created Einstein preferred at getting a comprehensive explanation of this knowledge source and then examine the suitability of the solution under many circumstances. Hence I would like the Kazeon System’s  decision making, planning and executing teams to follow Albert Einstein’s school of thought towards solving a problem.
+This research does a detailed analysis on the following aspects: 
+•	To innovate and grow a product continually, new sources of knowledge have to be acquired from its users and these sources of knowledge help in knowledge creation.
+•	Look at the knowledge conversion process that is going on in Kazeon Systems and identify those who are involved in the knowledge conversion process. Here we are specifically looking at how Kazeon Systems is retrieving knowledge about the specific cases where E-Discovery fails and how they are able to internalize in their problem solving methodology. 
+•	Identify what is stopping knowledge creation about E-Discovery failures at  Kazeon Systems by identifying the hurdles in the present knowledge conversion process.
+•	Look into the various strategies adopted within Kazeon Systems in depth and decide on which to continue with and which to drop so that Kazeon Systems maintains a competitive edge over it’s competitors. 
+•	To overcome the hurdles, learnings from this course are to be used to propose a solution based on Knowledge Insight Model.
+
+FACTORS HINDERING E-DISCOVERY SUCCESS
+This literature indicates many potential reasons why E-Discover may fails to  give desired results in certain environments. We list and briefly summarize several of these reasons that may cause E-Discovery to fail.  Rather than exhaustive paragraphs, we highlight the main areas where failure factors have been suggested. We also include a few failure factors that are relevant for Kazeon’s E-Discovery system either because of bad KM approaches at organizations, its learning aspect or because of its nature as an information system. A number of reasons have been listed, any one of them can cause the observed behavior.
+1. Kazeon System’s E-Discovery may fail when the KM approach at the organization attempts to create a monolithic organizational memory.  Organizations that tried to develop a monolithic organizational memory for an entire organization have a low chance of success with E-Discovery. Among other reasons, such organizations are distributed and may have conflicting goals. 
+2. Kazeon System’s E-Discovery may fail because the KM approach at the organization does not integrate humans, processes, and technology. This is justified by the limitations and importance of each of its components. Humans alone are slow and have limited capacities. Processes are the main component in delivering organizational goals. Thus, any approach that is not associated with processes will tend to fail or to be perceived as failures. Technology cannot be considered alone, it is limited to supporting humans because of its variable accuracy levels when performing simple mundane human tasks. 
+3. Kazeon System’s E-Discovery may fail because the KM approach at the organization is designed without input from all stakeholders. This happens when systems analysis and design ignores the community processes and organizational culture. This is very likely to increase resistance in adoption of the approach. This is considered a failure factor in the development of any systematic approach. 
+4. Kazeon System’s E-Discovery  may fail because the KM approach at the organization causes contributors to not know the ideal specificity of knowledge. There is a level of specificity that makes knowledge worth transferring. Contributors may not know the level of generality that would make knowledge useful, causing them to submit useless artifacts or not submit anything at all. 
+5. Kazeon System’s E-Discovery may fail because the KM approach at the organization lack  leadership support. Sometimes community leaders are not convinced of the benefits of knowledge sharing (Nonaka and Konno, 1998), potentially spreading their skepticism to the community. 
+6. Kazeon System’s E-Discovery may fail because the KM approach at the organization makes users afraid of the consequences of their contributions. This cause is related to job security. Contributions from a member may be subject to criticism or evaluation, they may oppose content already captured, users may even feel that withholding their knowledge may be a way to secure influence.
+7. Kazeon System’s E-Discovery may fail because the KM approach at the organization decides to store knowledge in unrestricted textual representations. Knowledge artifacts stored in textual format may be long and difficult to interpret. This makes the recognition of the usefulness of the knowledge artifact a time consuming and maybe impossible task. Textual formats may also lack social and process context. 
+8. Kazeon System’s E-Discovery approaches may fail when KM approach at the organization are outside the process context. This can be attributed failure in the dissemination role of repository-based systems to their standalone design housed outside the environment of the target processes where users are to reuse knowledge artifacts. The authors claim that there are various implications for the user. The users have to know the repository exists; to have time to open and search it; to have the skills to use it; to know where to access it; to believe that the repository contains useful knowledge; to believe that knowledge reuse is beneficial. A further problem with tools that are outside the process context is that they force the user to divert from their normal activities.
+9. Kazeon System’s E-Discovery may fail if KM approach at the organization tends to assume that the organizational systems will always be rational. There was an assumption of logical cause and effect relationships between the inputs and the outputs of the systems and processes.  However, for this to occur there needs to be a rational approach to knowledge generation; this would mean that there is a set of definite truths which can be accessed by all . Rationalists state that a core set of knowledge can be deducted by reasoning in a logical way.  Within knowledge management development, this would indicate a set of systems and processes that could be determined to be the right way to manage the organization in order to gain the desired outputs; the search for the appropriate input will lead to the right output.
+It is logical, therefore, that if there is to be the requisite organizational learning, required to develop new behavior, there must be a recognition of the constructed nature of knowledge within the new system development.  This is currently being reflected within knowledge management literature.  McAdam and McCreedy (1999) indicate that many knowledge management models reflect the old managerial paradigm, which does not recognize the importance of the individual within the system (see figure 1, black arrows are expected behaviour, and white arrows represent actual behaviour).  
+
+ 
+ Demerest's Knowledge Management Model
+
+McAdam and McCreedy (1999) go on to show that to ignore the constructed and social nature of knowledge development is to oversimplify the behaviour modelling and, therefore, to underestimate what needs to be done to develop knowledge management systems.  They develop a new model that reflects this greater level of complexity.
+ 
+This dynamic property of knowledge development is becoming increasingly accepted These elements to knowledge creation infer that there is a current level of knowledge within an individual that can be developed and interacted with, in order to develop something new again.  Unless the individual engages with the process, what they already know cannot be either ascertained or accessed, thus it will be outside the system.  
+
+
+
+DELIVERABLES DESCRIPTION
+
+The many causes of failure of E-Discovery pointed out  in the section above and can be used as a basis to guide an approach to prevent failure. Now we will discuss countermeasures to address the failure factors discussed above. These countermeasures represent functions of a KM approach, which can be delivered either through a technological component, i.e., KM system, or through knowledge facilitators, or they may suggest a target community or organization may be at risk of failure. They are combined into guidelines for a KM approach with a greater potential for success. These guidelines are sometimes difficult to implement. Now I will illustrate their implementation with an example community.
+
+Here are some my recommendations which will help improve the wrong KM approaches at organizations trying to implement E-Discovery as a Knowledge Management System, so that there are greater chances of success. Kazeon Systems can provide the below suggestions to companies where E-Discovery isn’t giving desired results and help them evolve their KM practices so that they are saved from facing losses because of a expensive non-working asset at the company(E-Discovery in this case). Kazeon Systems might even use my recommendations to make E-Discovery more robust to bad KM practices in the industry. Also Kazeon Systems could offer a new service to help companies improve their KM practices to make them more E-Discovery friendly and make some revenue. 
+
+1. KM approaches should be designed to support communities of practice. The goals of the target community should be assessed in order to determine if it represents one single community of practice, or if it should be subdivided into sub-communities. Being a community of practice implies that its members share the same interests. Sharing same interests allows for consistency in the quality of knowledge artifacts as the artifacts are geared to positively impact the same target processes. This concept may also be extended to a community of science, where its users share the same scientific goals in a common field of study.
+
+2. KM approaches should integrate humans, processes, and technology. The human component should consist of knowledge facilitators and users (i.e., knowledge workers) who work together to understand the community processes, and master the technology. The processes that are relevant to the target community should be identified and incorporated into the main steps of design and development of the KM approach. The KM system should incorporate the community’s processes, and be designed with user’s input.
+
+3. KM approaches should be designed in collaboration with different stakeholders. Designers and stakeholders together can perform a thorough analysis that takes into account the context of the processes of the target community. Analysis and design should be initially based on the elements derived from this study of countermeasures. Once they are explained to stakeholders and the main principles of the basic design are understood, other aspects should be discussed within the context of the processes that are relevant to the target community. Particular importance should be given to performing analysis and design within their organizational context.
+
+4. KM approaches should identify an adequate level of specificity. The level of specificity to be adopted should be considered useful by the majority of the users. Identifying a useful level should be part of the analysis of the domain. The level of specificity should be constantly monitored by knowledge facilitators as new knowledge artifacts are captured. 
+
+5. KM approaches should be strongly supported by the leaders of their target communities. If the targeted community cannot count on strong leadership support, knowledge facilitators should educate its leaders on the expected benefits of the KM approach. Management should contribute financially and understand it as an investment; promoting the success of the approach as return on the investment. Once they understand the benefits, leaders should become role models in knowledge sharing. The need for leadership support suggests better results when implementing the KM approach in a community with a flat hierarchy, whose leadership is at a level that is not too different from its members. Knowledge facilitators should warn leadership of the risk of failure due to lack of their support. 
+
+6. KM approaches should be adopted by communities that encourage innovation. Communities that encourage innovation and positive criticism, where competition and job insecurity do not prevent sharing are ideal for successful KM approaches. However, if criticism is a strong element in organizational culture, then a KM approach should attempt to limit the scope to a community or to a set of processes where innovation and criticism are justifiable and used to commend, rather than to eliminate members. Knowledge facilitators and leadership should discuss how to support innovation and how positive criticism can motivate contributions and how the opposite will render their investment useless. Organizations whose culture is not sufficiently open to change will be at risk and thus leadership has to be oriented to acknowledge this risk. 
+
+7. KM approaches should adopt representations with set of specific fields. A small set of fields will guide and restrict users, creating short and focused representations that will make it easier to bring context and to help recognize an artifact’s usefulness and applicability. As we will discuss again under Guideline number 1, it helps interpretation and provides context if one of these fields is utilized to represent the process the artifact can influence. An industry conceived knowledge artifact that identifies the process where it can be applied is a lesson-learned. In order to meet all requirements imposed by its definition, a representation for lessons-learned should highlight the process it impacts, its validation, applicability, and the lesson it teaches. Representations that are easy to interpret also facilitate transparency. 
+
+8. KM approaches should adopt technology only when it is suitable for a task. When technology is not adequate for a task and a suitable one is not available, then this task should be left to humans. For example, information management tools that deal with data and information should not be used to represent knowledge artifacts. Knowledge engineering  is the field dedicated to the study of knowledge-based methods where knowledge formalisms are used to represent and reason with knowledge (not data or information). Natural language processing is usually computationally expensive and still prone to. For this reason, knowledge facilitators should be responsible for verifying the appropriateness of submitted knowledge. Weber and Kaplan (2003) categorized KM approaches based on the type of technology, referring to approaches that rely on knowledge-based methodologies as knowledge-based knowledge management. They explain why knowledge transfer is facilitated when proper knowledge-based methodologies are adopted. The recommended knowledge-based technology for implementing KM systems, according to several authors (e.g., Althoff and Weber, 2006; Watson, 2003), is case-based reasoning (CBR). In CBR, knowledge is experiential and it is represented in a case. Cases include indexing and reusable components. Weber and Aha (2003) adapted a representation for lessons-learned based on cases. The indexing components include an activity or process and information about the context. The activity is where the lesson is applicable, while context provides the circumstances in which the lesson was learned. These two indexing components help retrieve artifacts that are applicable to a task when similar circumstances are present. The reusable components include the central strategy taught by the lesson and a lesson rationale that explains how the lesson was learned. This knowledge representation incorporates all the elements necessary for applying a strategy and reasoning; it does not simply manipulate data and information. 
+
+9. KM approaches should be integrated into the context of target organizational processes. The context where members deliver organizational processes is where knowledge artifacts are to be 
+shared and are potentially reusable. Therefore, all knowledge artifacts must explicitly indicate the process they can impact. When knowledge artifacts are to be reused in the context of a computer system, then the monitored distribution approach can be implemented for proactive distribution (i.e., a process-based push method) of knowledge artifacts in the context of organizational processes. Proactive distribution requires the use of an automated tool (e.g., ERP systems) for delivering user’s activities. When this is not the case, then active casting can be used to push knowledge artifacts based on user’s areas of interest. Pull methods should always be available to all users. 
+
+10. KM approaches should include methods to overcome impediments to knowledge transfer. For example, it may be too much to expect that contributors describe a knowledge artifact, including the factors that associate the strategy with the original context, and how the strategy should change when applied to different contexts. For this specific challenge, we observe that the inclusion of these additional contents would be more easily captured as additional artifacts. Therefore, KM approaches may target the building of comprehensive repositories with a dense coverage of strategies and contents, as long as relevant to its targeted community. Those repositories would include adjacent contexts eliminating the need for explicit descriptions of how strategy and solution relate. When making knowledge artifacts available to users, such as when users search for artifacts, closely related artifacts should be made visible to users so they may be able to infer how to adapt closely similar artifacts. The use of the CBR methodology may also address this problem with adaptation knowledge. Moreover, some maintenance methods defined for CBR (Smyth and McKenna, 1999) utilize techniques to estimate coverage that can be used to determine which additional artifacts should be added to create a dense repository. Unprovenness can be addressed by requiring the inclusion of evidence or a description of how the strategy was learned in the artifact representation. In order to address both absorptive and retentive capacities, users of the system should be knowledgeable of the processes, so they understand how to absorb and retain new knowledge. This is a constraint imposed on the target community: when knowledge workers are ignorant of the domain such that those capacities are limited, then any KM approach is at risk. 
+
+11. KM approaches should incorporate means of enforcing managerial responsibilities. Actions to enforce managerial responsibilities should be incorporated into the design, training, and operation of the KM approach. The design of the approach should incorporate knowledge that is relevant to the processes of the target community: collection, verification, and monitoring. It is not the responsibility of the knowledge workers using the KM system to oversee the proper collection and verification of knowledge they have contributed. Those managerial responsibilities are requirements of the KM approach, and thus must be delivered within system design or through knowledge facilitators. For example, an interface to capture knowledge artifacts should be focused on the fields that can retain essential elements of knowledge sharing (e.g., reusable strategy, conditions that make it applicable). The infrastructure is to be supported in different ways by the KM approach. Knowledge facilitators should create tutorials and workshops to train users on how to submit artifacts using the KM system capture interface, which has been tailored to enforce an adequate representation to the community. Knowledge facilitators should review and approve new submitted artifacts when they conform to the representation. 
+
+12. KM approaches should include verification methods. The methods should verify knowledge artifacts for correctness, completeness, legitimacy, relevance, adequate specificity, and clarity. It is important that knowledge facilitators, not supervisors, review submitted artifacts. The review by the knowledge facilitators also provides them the opportunity to contact contributors for any clarifications that may be required, and to discuss any necessary corrections. This also allows the authors to be in agreement, and to have a chance to learn the best way to submit an artifact in the first place. KM approaches should also include maintenance methods so that stored knowledge remains relevant across time. For example, clustering methods can automatically identify redundant knowledge. Records of usage of artifacts can also indicate obsolesce. A committee of members must agree with deletions of artifacts. Automated methods of verification, maintenance and deletion can be adopted as long as they do not violate Guideline number 8. 
+
+13. KM approaches should include measures to promote collaboration. Collaboration is intrinsic to knowledge sharing because it is how groups of humans share and learn knowledge. Therefore, understanding the mechanisms that promote collaboration and computer-supported collaboration, and incorporating them into a KM approach, will increase its chances of promoting knowledge sharing. The essential element to foster collaboration is transparency. I recommend adopting a short and easily interpretable representation for knowledge artifacts to facilitate transparency. The easier an artifact is to understand more transparent are its contributor’s interests. Consequently, collaboration is more likely to be promoted. 
+
+14. KM approaches should demonstrate how contributors can benefit from KM. Once contributors understand how they will benefit, they are more likely to be motivated to contribute. They should also understand the value of the approach to others. Knowledge facilitators should emphasize the benefits of the approach to the contributors and to their community via tutorials and workshops. One motivating argument is to offer a benefit that compensates for the time spent on contributing to the KM approach. For example, contents of knowledge artifacts and community processes indicating where artifacts have been submitted can be used to help draft reports and illustrate contributor’s performance. Knowledge facilitators should also educate and train users in order to minimize the time dedicated to submit artifacts. Moreover, contributors will more easily perceive benefits when using a well maintained repository with high quality artifacts. 
+
+15. KM approaches should allow for the measurement of their effectiveness. The effectiveness of a KM approach should reflect its ability to perform knowledge tasks such as sharing and leveraging knowledge. For example, requesting that users search for associations between different repository artifacts requires their understanding of those artifacts. Thus, it points to knowledge sharing. Analogously, showing that a member has created a knowledge artifact with the use of an existing one would be a way to presume knowledge leveraging. Surveys asking users about their usage is also a way to measure effectiveness. 
+
+TECHNOLOGY TRANSITION AND TECHNOLOGY TRANSFER PLANS
+
+In order for E-Discovery to succeed as a Knowledge Management Solution, the above mentioned recommendations have to be implemented at the organization that is trying to amalgamate E-Discovery in its Knowledge Management Cycle.  Here is the sequence of actions that should follow for a KM technology transition in an organization with bad KM practices.
+
+•	Action Step 1: Kazeon Systems should report the above mentioned recommendations to the CIO (Chief Information Officer) of an organization where E-Discovery fails. 
+Estimated Implementation Time: 1 Day.
+
+•	Action Step 2: The CIO should hold a meeting with the CKO(Chief Knowledge Officer) to discuss the recommendations of Kazeon Systems to analyze if the organizations KM practices actually lack qualities mentioned in the proposed recommendations.
+Estimated Implementation Time: 1 Week (Considering that the schedules of the CIO & CKO may be conflicting).
+
+•	Action Step 3: If the two are not convinced about Kazeon System’s recommendations or they have questions/concerns about the implementation of the above recommendations, they should get back to Kazeon Systems and ask for more details or clarifications.
+     Estimated Implementation Time: 2-3 Days
+
+•	Action Step 4: The CKO and CIO should form a team of their most knowledgeable KM personnel and discuss plans of implementation and try to en-vision if the recommendations can be implemented on a large scale of not. 
+      Estimated Implementation Time: 2-3 Days
+
+•	Action Step 5: If the above step is successful then the CIO/CKO should form a small team and ask the team to implement the recommendations on a small scale in an controlled environment and see if the results are favorable.  The PDCA cycle might be used to achieve success for the above mentioned steps.
+•	 The team should be asked to document the implementation steps, results and cost  of the experiment so that it can be presented to the CEO.
+Estimated Implementation Time: 1 Month.
+
+The CIO, CKO and a Kazeon Representative should hold a meeting with the CEO of the organization and explain to him the findings of the above steps and ask him for implementation of the devised solutions on a company wide scale. Estimated Implementation Time: 1 Day.
+
+The above steps can be mapped into the PDCA cycle so that they are easier to understand and the implementation is more effective.
+
+Plan/East/Sensing the Problem
+
+
+
+
+Act/North								Do/South
+										
+					KM Practice 
+                                                          Improvement   Cycle                                                                                         Do 					Mandala Centre
+
+
+                                       
+
+Check / West
+                                                         
+
+PERSONNEL AND QUALIFICATIONS
+
+First Kazeon Systems will have to hire a personnel who will keep in touch with the organizations who have E-Discovery as their Knowledge Management System. Lets call this personnel the “Product Support & Services Manager(PSSM)”. The PSSM would report E-Discovery failures to either the CTO(Chief Technical Officer) or the CKO(Chief Knowledge Officer), based on weather the failures are due to technology failures or bad KM practices at the organization. Based on the reports sent the reports sent by the PSSM the CKO will have to analyze the short comings of the KM practices at the organization in question and try to find solutions to improve upon them.  The CKO should have several traits of my Archetype – Albert Einstein. He/she must be a genius and adept in various fields just like Albert Einstein was. He/She must have the thirst and passion to find the KM practice  short comings at the organization where the E-Discovery product is failing. He should be able to find concrete solutions to improve the KM practices and should suggest them to the customers. His role would be to understand the existing environment and problems in the customer’s organization and help the team members to come out with ideal framework for the solution to the identified problems. To be in this position, the person must have significant experience both in the technical field as well as in managerial positions.
+The Product Services and Support Manager at Kazeon Systems should take the proposals from the Kazeon CKO to the CIO at the customer organization. He should be able to convince the customer organizations CIO about the reasons why E-Discovery implementation is failing in their organization causing a lot of revenue loss. He should be able to convince the CIO that the KM practice changes suggested by Kazeon Systems will actually help the organization to get some valuable outcome. 
+
+Once the CIO is convinced regarding the changes that need to be made to the KM practices at the organization he should have a meeting with CKO to discuss the proposed KM practice changes and try to be on a common view point. This is very important, because if any one of the two, ie the CIO or the CKO at the organization don’t agree to the KM practice changes suggested by Kazeon Systems, E-Discovery will continue to fail and the organization will continue to make losses because of the E-Discovery Implementation. Also if the customers aren’t happy with Kazeon’s Product, their image in the market will be spoilt, hence the implementation of this devised solution is critical. 
+
+If the above step is successful then the CIO/CKO should form a small team(Preliminary Implementation Team) and ask the team to implement the recommendations on a small scale in an controlled environment and see if the results are favorable.  There will be a team of designers who will be responsible for drawing out the design of the solution framework. These designers should have the perseverance as an important trait just like the Archetype- Albert Einstein had in coming out with scientific wonders. The designers must have a lot of experience in having developed KM solutions and must be acquainted with the approaches that must be used to come out with the design of the solution KM framework. The team should be asked to document the implementation steps, results and cost  of the solution framework so that it can be presented to the CEO.
+
+The CIO, CKO and a Kazeon Representative should hold a meeting with the CEO of the organization and explain to him the findings of the above steps and ask him permission for implementation of the devised solutions on a company wide scale.  For the company wide implementation of the newly adopted KM practices, another core team of developers would have be formed. This team (Final KM Approach Implementation Team) would be responsible for the implementation of the solution framework. They may be entry level/ senior level KM personnel who have good analytical and creative ability just like my Archetype. Then there will be a technical support team to assist this of KM personnel incase any technical issues have to be dealt with. This entire explanation can be summarized as follows:- 
+Designation	Qualification	Organization	Role	Effort Level	KIM Role
+CEO	Maters/PhD Degree in Business with a Bachelors Degree in a Technical Bag round Preferably.	Kazeon Systems	The CEO would be responsible to address the problem that E-Discovery implementations fail in some organizations. Delegate the CTO and CKO to find out the reasons for the same, and give them autonomy to implement solutions.	Medium	Framer
+CKO	Masters/PhD Degree in Business or Computer Science	Kazeon Systems	The CKO would be need to find out that E-Discovery installations fail in some organizations due to in-correct KM practices. He would also have to point towards the specific KM practices that are in-correct and find solutions	High	Will have to play the role of both Maker and Finder.
+					
+
+Designation	Qualification	Organization	Role	Effort Level	KIM Role
+PSSM
+(Product Services & Support Manager)	Masters Degree in Computer Science / Related Field or Bachelors Degree in Computer Science, but with extensive experience in software product/ support, Customer Relations.	Kazeon Systems	 The PSSM would  be in close contact with the Customer and report E-Discovery failures to either the CTO or the CKO, based on weather the failures are due to technology failures or bad KM practices at the organization.	High	Sharer
+CEO 	Maters/PhD Degree in Business with a Bachelors Degree in a Technical Bag round Preferably.	Customer	The CEO would have to permit the CKO to implement organization wide changes in the KM practices so that E-Discovery can be of use to the organization.	Low	Framer
+CIO	Masters/PhD Degree in Business or Computer Science	Customer	Keep in touch with the PSSM at Kazeon and report to him failures of E-Discovery and probable reasons for the same. After the Kazeon CKO proposes KM practice changes for the organization, try to analyze them and see if they can be implemented and discuss with CKO.	Medium	Maker
+Designation	Qualification	Organization	Role	Effort Level	KIM Role
+CKO	Masters/PhD Degree in Business or Computer Science	Customer	Analyze the KM practice changes suggested by Kazeon Systems and bring together a team to implement them on an experimental basis in an controlled environment. If the newly proposed KM approaches are successful, try to implement them on a company wide level.	High	Finder
+Final KM Approach Implement-ation Team	Entry level/ Senior level KM personnel who have good analytical and creative ability	Customer	Implement the model suggested Preliminary Implementation team on a company wide scale. This team would be headed by the CKO.	High	Finder
+Preliminary Implement-
+ation Team	Members should be KM Personnel with some experience in KM Research. Masters Level Education or better.	Customer	This team to implement the recommendations of Kazeon Systems on a small scale in an controlled environment and see if the results are favorable.  There will be a team of designers who will be responsible for drawing out the design of the solution framework. 	High	Finder
+
+EXPERIMENTATION & INTEGRATION PLANS
+As this point in this report we know the causes for the Failure of the E-Discovery Knowledge Management System in some organizations as well as the solutions for the same. We also know how the symptoms of failures would be detected by Kazeon Systems and how they will enable the customer in question to help deal with this failure. Now I will come up with try to amalgamate all of the above and come up with a KM model which will serve as a solution for the described problem. Also I would be talking about how this experimental model can be integrated into the KM practices of an organization that plans to implement E-Discovery as their Knowledge Management System.
+Whenever E-Discovery stops adding value to an organizations KM system, it could be because of two reasons. Firstly it could be because of technical issues, but these can be easily handled by the technical team at Kazeon Systems. The second reason could be because of incorrect KM practices at the organization and overcoming this will take substantial effort from the Kazeon as well as the customer. We have already said that in such circumstance Kazeon has to inform customers about the incorrect KM practices their organization but how would the CKO/CIO at the organization actually test weather the hypothesis suggested by Kazeon was true? This can be achieved by rigorous questioning of the KM practices in place and trying to improve based on the answers. These questions are nothing but the features of the KM model in an organization which need to be tested to see if they are causing the failure of a Knowledge Management System like E-Discovery. Here are a set of questions and their possible solutions that would help a CKO at help analyze if the KM practices in his/her company lack something.
+Are the right leaders in place on the staff to produce an effective Knowledge Management Model?
+Wrong leaders are a sure indication of  failure of a KM model in an organization. The leadership as a whole must represent a range of important perspectives is able to argue constructively, be both innovative and disciplined, and see both the big picture and the details. 
+
+
+How will you align the Knowledge Management Model behind the Business Objectives of your Organization?
+ If a Knowledge Management Model has a clear set of strategic goals, the next step is to ensure that the resources it uses i.e. talent, knowledge, money, time, facilities are marshaled to ensure progress toward the Business Objectives of your Organization. The Knowledge Management Model should be a part of the following so that, the resources it uses are made accountable and it is made sure that the Model is actually of use to the organization. 
+?	The annual budget 
+?	Work plans and performance review 
+?	Meeting agendas and committee structure 
+?	Program plans 
+What type of plan does your Knowledge Management Model need(KMM)?
+A Knowledge Management Model needs a plan that will bring focus and discipline to the work without sacrificing the energy and fresh ideas that come naturally. A stable Knowledge Management Model needs to be challenged to try new things and take risks, even if it means dropping things that have worked successfully until now. An aging Knowledge Management Model needs to be pushed to action, which may require drastic measures since old ways are entrenched. Here is the rub: each organization will resist creating the type of KMM it actually needs. 
+How will you balance the need to get multiple perspectives and include stakeholders in the process, with the need to make decisions and move the planning process forward?
+In some circumstances it may be valuable to bring a broad group of people into the planning process. This has the advantage of having multiple perspectives on issues and opportunities. It also gives ownership of the plan to many people, which may make implementation easier. However, this approach takes time. In other cases it is more important to narrow the discussion and get things done quickly. 
+
+What are the necessary components of your Knowledge Management Model?
+A CKO should not waste time working on things that are unnecessary for the organizations success. He/She should stay focused on what the organization needs. The following possible components have to be considered during the planning process of the Knowledge Management Model at your firm. 
+ Mission - this statement usually describes what an organization does. Some statements also include whom the organization serves. Your current mission statement may not need to change. 
+ Core Purpose - this statement goes deeper than the mission statement, addressing why the work is important. The best statements clearly show how the organization benefits others and addresses basic human needs or aspirations. 
+Vision - this statement should be a vivid and inspiring description of what the organization will be and do at some point in the future. 
+ Core Values - these are the beliefs or values that guide the work; they often are meaningless unless they are translated into actual behavior. 
+Goals and Objectives - these are statements of what the organization plans to achieve over the course of the plan. If the plan includes a Vision statement, the goals and objectives should be aligned, so that the vision may be many years out, the goals are to be attained in say five years, and the objectives are annual benchmarks. 
+Key Indicators - these state the goals and objectives in measurable terms so that progress can be tracked. 
+ Strategies - these identify the ways in which the organization will advance toward its goals or vision; specifically, the strategies should show how the organization will distinguish itself in the eyes of its constituents. 
+Internal Analysis - this provides insight that can enable the organization to build on its strengths and use the planning process to address its weaknesses. This analysis should look at personnel (board and staff), finances, organizational structure and culture. 
+ External Trends Analysis - an analysis of external forces that may impact an organization's success, such as the economy, technology, population change, politics and life style. This provides data and insight that can be used to identify strategic opportunities or barriers that may inhibit your progress. 
+ Market Research - this can help the organization focus its work where it will do the most good and receive the greatest support. 
+Business Plan - this is the strategic plan stated in financial terms: how much will it cost to implement, and what revenue will it generate? 
+Action Initiatives - these describe the actions that will be taken immediately so that the plan does not sit on a shelf.. 
+How will you ensure that the Knowledge Management Model(KMM) strengthens your organization financially?
+Knowledge Management Models (KMM) result in facilities and programs that are expensive to maintain. All decisions to implement them should go through a rigorous mission-margin assessment to ensure that the results will contribute positively to the mission and to financial strength of the organization.
+How will you generate funds to support the  Knowledge Management Model(KMM) at your firm?
+ The Knowledge Management Model(KMM) should state the vision and goals of the strategic plan through powerful messages that tell the story of why the organization exists, the benefits it brings to the organization, and why it should continue to grow. The Knowledge Management Model(KMM) should be integrated into the organization so that everyone i.e. the board and staff comprehends the important roles it plays, whether the activity is identification, cultivation or solicitation. If the message of the KMM is clear and it helps the organization make money, the board will open its purse and funds will be generated.
+
+How will you keep from doing things that divert you from the Business Objectives of your firm?
+The ability to say no and to focus on those actions that drive you toward the Business Objectives of your firm is the heart of being strategic. The Knowledge Management Model(KMM)  needs the discipline to (1) say no to new ideas that don't fit, and (2) to stop doing old activities that no longer fit. 
+How will your Knowledge Management Model(KMM) remain nimble so that it can respond to unforeseen opportunities?
+ The strategic plan should not be a straightjacket. Rather, it should provide guidance to enable you, the board and the staff to determine whether a new opportunity is a good one, in light of your goals and objectives. 
+How will you know if the Knowledge Management Model(KMM)  is working?
+To track your progress you will need a straightforward system of measurement. If the process is cumbersome it will be unreliable and time consuming. You must decide what is most important to measure, how it will be done, how often and by whom. Note that if your operating budget and work plans are aligned with the strategic plan then monitoring the plan becomes part of regular management and board meetings. 
+How will you keep the Knowledge Management Model(KMM) fresh?
+The plan needs to change as new challenges or opportunities arise. A plan is valid only as long as the initial information and assumptions remain valid. Periodically you will need to assess the continued validity of a plan and make adjustments. Annually at least you should consider if it is time to scrap the plan and develop a new one.
+Finally all these questions boil down to one theme that before bringing in an expensive Knowledge Management System into your organization the Knowledge Management Model should be set right. The following section will talk about the KMM I propose to overcome the failure of a KM System like E-Discovery and its features.
+
+FINAL KNOWLEDGE MANAGEMENT MODEL SOLUTION
+Finally all these questions boil down to one theme that before bringing in an expensive Knowledge Management System into your organization the Knowledge Management Model should be set right. The KMM should be able to amalgamate Leadership, Business Objectives of a Firm, Core Values of the Firm, Company Mission and Vision etc together into a Social Structure which can be accessed by all the staff of the company. Knowledge Management Ideas should be at the core of this structure. 
+The figure below shows the proposed idea in a pictorial form and amalgamates all the ideas and solutions described so far.
+
+ 
+
+

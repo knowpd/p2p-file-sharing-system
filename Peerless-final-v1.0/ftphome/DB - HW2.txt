@@ -1,0 +1,62 @@
+a)
+SQL> select distinct P.maker from Product P where P.type = 'laptop' and P.maker not in (select P1.maker from Product P1 where P1.type = 'pc');
+
+M
+-
+F
+G
+
+
+b)
+SQL>  select P1.model as model1, P2.model as model2 from PC P1, PC P2 where P1.speed = P2.speed AND P1.ram = P2.ram AND P1.model < P2.model;
+
+     MODEL      MODEL
+---------- ----------
+      1004       1012
+
+
+
+c)
+SQL> select maker from (select P.maker, C.speed from Product P, PC C where P.model = C.model UNION select P1.maker, L.speed from Product P1, Laptop L where P1.model = L.model) where speed = (select MAX(speed) from (select C1.model, C1.speed from PC C1 UNION select L1.model, L1.speed from Laptop L1));
+
+M
+-
+B
+
+
+
+d)
+SQL> select AVG(price) as avgprice from (select P1.type, C.price from Product P1, PC C where P1.maker = 'D' AND P1.model = C.model) UNION select AVG(price) as avgprice from (select P2.type, L.price from Product P2, Laptop L where P2.maker = 'D' AND P2.model = L.model);
+
+  AVGPRICE
+----------
+       730
+
+
+
+e)
+SQL> select speed, avg(price) from PC group by speed having speed > 2.0;
+
+     SPEED  AVG(PRIE)
+---------- ----------
+       2.2        640
+       2.8 689.333333
+       3.2      839.5
+      2.66       2114
+       2.1        995
+      3.06        529
+
+f)
+SQL> select P.maker, avg(C.hd) from Product P, PC C where P.model = C.model AND P.maker IN (select P1.maker from Product P1 where P1.type = 'printer') group by P.maker;
+
+M  AVG(C.HD)
+- ----------
+D 266.666667
+E 133.333333
+
+
+
+2)
+
+
+
